@@ -2,6 +2,6 @@
 
 int main() {
     PayClient client;
-    client.createCharge(1000, "usd", "tok_visa");
+    client.creatoldPayment(1000, "usd", "tok_visa");
     return 0;
 }
